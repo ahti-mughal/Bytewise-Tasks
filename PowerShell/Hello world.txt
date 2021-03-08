@@ -1,0 +1,6 @@
+PS C:\Users\RYZEN> write-Host "Hello World"
+Hello World
+
+PS C:\Users\RYZEN> echo "Hello world"
+Hello world
+
